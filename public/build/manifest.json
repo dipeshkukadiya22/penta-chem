@@ -1,27 +1,27 @@
 {
-  "public/frontend/Hero.png": {
-    "file": "assets/Hero-DEwn3C9i.png",
-    "src": "public/frontend/Hero.png"
+  "public/frontend/Frame-20.jpg": {
+    "file": "assets/Frame-20-2HyNDi0m.jpg",
+    "src": "public/frontend/Frame-20.jpg"
+  },
+  "public/frontend/Group-72981-img.svg": {
+    "file": "assets/Group-72981-img-l_yWxXqa.svg",
+    "src": "public/frontend/Group-72981-img.svg"
+  },
+  "public/frontend/Wave.svg": {
+    "file": "assets/Wave-BkWse6hX.svg",
+    "src": "public/frontend/Wave.svg"
   },
   "public/frontend/about-bg.jpg": {
     "file": "assets/about-bg-Drf8Zr3d.jpg",
     "src": "public/frontend/about-bg.jpg"
   },
-  "public/frontend/product-page-hero.jpg": {
-    "file": "assets/product-page-hero-CRKdhiEZ.jpg",
-    "src": "public/frontend/product-page-hero.jpg"
-  },
-  "public/frontend/test.svg": {
-    "file": "assets/test-BXDtnWCK.svg",
-    "src": "public/frontend/test.svg"
-  },
   "resources/css/app.css": {
-    "file": "assets/app-BQ8MDYpq.css",
+    "file": "assets/app-BCM-9T02.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app-CqflisoM.js",
+    "file": "assets/app-T1DpEqax.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true
