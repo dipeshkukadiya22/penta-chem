@@ -1,7 +1,7 @@
-<div>
+<div class="bg-[#F9F9F9] ">
      <!--Hero Secton-->
      <div
-     class="bg-[#F9F9F9] min-h-[65vh] lg:min-h-[88vh] flex flex-col justify-center items-center py-10 lg:py-0"
+     class="min-h-[65vh] lg:min-h-[88vh] flex flex-col justify-center items-center py-10 lg:py-0"
    >
      <div class="content gap-12 !w-full px-6 lg:px-0">
         <div class="container flex flex-col lg:flex-row items-center">
@@ -288,21 +288,21 @@
               <div class="grid grid-cols-1 lg:grid-cols-2 gap-5">
 
                 <!-- ICON BOX 1 -->
-                <div class="bg-white p-6 rounded-3xl border-2 border-[#E5E5E5] group hover:bg-gradient-to-t hover:from-[#000000] hover:to-[#ACACAC] hover:text-white transition-all duration-300">
+                <div class="bg-white p-6 rounded-3xl border-2 border-[#E5E5E5] group hover:bg-gradient-to-t hover:from-[#000000] hover:to-[#ACACAC] hover:text-white transition-all duration-700">
                   <div class="min-h-[200px] lg:min-h-[220px] group space-y-6">
                     <div class="space-y-2">
-                      <img src="{{url('/frontend/icons/aroma.svg')}}" class="opacity-35 lg:w-[50px] group-hover:opacity-100 group-hover:filter group-hover:invert transition-opacity duration-300" />
+                      <img src="{{url('/frontend/icons/aroma.svg')}}" class="opacity-35 lg:w-[50px] group-hover:opacity-100 group-hover:filter group-hover:invert transition-opacity duration-700" />
                       <h4 class="text-2xl lg:text-[28px] group-hover:text-white transition-colors duration-300">
                       Aroma Chemicals
                       </h4>
                     </div>
-                    <p class="font-second text-[16px] text-[#5C5C5C] group-hover:text-white transition-colors duration-300">
+                    <p class="font-second text-[16px] text-[#5C5C5C] group-hover:text-white transition-colors duration-700">
                       High-quality aroma chemicals sourced globally for consistent performance in every formulation.
                     </p>
                     <div class="flex justify-end items-center">
-                      <a href="{{route('aboutus')}}" wire:navigate class="p-2 inline-flex font-light items-center bg-[#363636] group-hover:bg-white group-hover:text-[#363636] text-white rounded-full transition-colors duration-300">
+                      <a href="{{route('aboutus')}}" wire:navigate class="p-2 inline-flex font-light items-center bg-[#363636] group-hover:bg-white group-hover:text-[#363636] text-white rounded-full transition-colors duration-700">
                         <div class="flex flex-co justify-center items-center h-6 w-6 rounded-full" >
-                        <svg class="group-hover:rotate-[-30deg] transition-transform duration-300" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <svg class="group-hover:rotate-[-30deg] transition-transform duration-700" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                           <path d="M10.4688 15.625L16.0938 10L10.4688 4.375M15.3125 10H3.90625" stroke="currentColor" stroke-width="1.875" stroke-miterlimit="10" stroke-linecap="square"/>
                         </svg>
                         </div>
@@ -312,21 +312,21 @@
                 </div>
 
                 <!-- ICON BOX 2 -->
-                <div class="bg-white p-6 rounded-3xl border-2 border-[#E5E5E5] group hover:bg-gradient-to-t hover:from-[#000000] hover:to-[#ACACAC] hover:text-white transition-all duration-300">
+                <div class="bg-white p-6 rounded-3xl border-2 border-[#E5E5E5] group hover:bg-gradient-to-t hover:from-[#000000] hover:to-[#ACACAC] hover:text-white transition-all duration-700">
                   <div class="min-h-[200px] lg:min-h-[220px] group space-y-6">
                     <div class="space-y-2 ">
-                      <img src="{{url('/frontend/icons/aroma.svg')}}" class="opacity-35 lg:w-[50px] group-hover:opacity-100 group-hover:filter group-hover:invert transition-opacity duration-300" />
+                      <img src="{{url('/frontend/icons/Essential-oils-Group-5.svg')}}" class="opacity-35 lg:w-[50px] group-hover:opacity-100 group-hover:filter group-hover:invert transition-opacity duration-300" />
                       <h4 class="text-2xl lg:text-[28px] group-hover:text-white transition-colors duration-300">
                         Essential Oils
                       </h4>
                     </div>
-                    <p class="font-second text-[16px] text-[#5C5C5C] group-hover:text-white transition-colors duration-300">
+                    <p class="font-second text-[16px] text-[#5C5C5C] group-hover:text-white transition-colors duration-700">
                       Pure, natural essential oils carefully sourced to bring authentic aroma and efficacy to your products.
                     </p>
                     <div class="flex justify-end items-center">
-                      <a href="{{route('aboutus')}}" wire:navigate class="p-2 inline-flex font-light items-center bg-[#363636] group-hover:bg-white group-hover:text-[#363636] text-white rounded-full transition-colors duration-300">
+                      <a href="{{route('aboutus')}}" wire:navigate class="p-2 inline-flex font-light items-center bg-[#363636] group-hover:bg-white group-hover:text-[#363636] text-white rounded-full transition-colors duration-700">
                         <div class="flex flex-co justify-center items-center h-6 w-6 rounded-full" >
-                        <svg class="group-hover:rotate-[-30deg] transition-transform duration-300" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <svg class="group-hover:rotate-[-30deg] transition-transform duration-700" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                           <path d="M10.4688 15.625L16.0938 10L10.4688 4.375M15.3125 10H3.90625" stroke="currentColor" stroke-width="1.875" stroke-miterlimit="10" stroke-linecap="square"/>
                         </svg>
                         </div>
@@ -336,21 +336,21 @@
                 </div>
 
                 <!-- ICON BOX 3 -->
-                <div class="bg-white p-6 rounded-3xl border-2 border-[#E5E5E5] group hover:bg-gradient-to-t hover:from-[#000000] hover:to-[#ACACAC] hover:text-white transition-all duration-300">
+                <div class="bg-white p-6 rounded-3xl border-2 border-[#E5E5E5] group hover:bg-gradient-to-t hover:from-[#000000] hover:to-[#ACACAC] hover:text-white transition-all duration-700">
                   <div class="min-h-[200px] lg:min-h-[220px] group space-y-6">
                     <div class="space-y-2 ">
-                      <img src="{{url('/frontend/icons/aroma.svg')}}" class="opacity-35 lg:w-[50px] group-hover:opacity-100 group-hover:filter group-hover:invert transition-opacity duration-300" />
+                      <img src="{{url('/frontend/icons/natural-Group-8.svg')}}" class="opacity-35 lg:w-[50px] group-hover:opacity-100 group-hover:filter group-hover:invert transition-opacity duration-700" />
                       <h4 class="text-2xl lg:text-[28px] group-hover:text-white transition-colors duration-300">
-                      Aroma Chemicals
+                        Natural Extracts
                       </h4>
                     </div>
-                    <p class="font-second text-[16px] text-[#5C5C5C] group-hover:text-white transition-colors duration-300">
-                      High-quality aroma chemicals sourced globally for consistent performance in every formulation.
+                    <p class="font-second text-[16px] text-[#5C5C5C] group-hover:text-white transition-colors duration-700">
+                      Premium natural extracts sourced for potency and purity, perfect for enriching a wide range of formulations.
                     </p>
                     <div class="flex justify-end items-center">
-                      <a href="{{route('aboutus')}}" wire:navigate class="p-2 inline-flex font-light items-center bg-[#363636] group-hover:bg-white group-hover:text-[#363636] text-white rounded-full transition-colors duration-300">
+                      <a href="{{route('aboutus')}}" wire:navigate class="p-2 inline-flex font-light items-center bg-[#363636] group-hover:bg-white group-hover:text-[#363636] text-white rounded-full transition-colors duration-700">
                         <div class="flex flex-co justify-center items-center h-6 w-6 rounded-full" >
-                        <svg class="group-hover:rotate-[-30deg] transition-transform duration-300" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <svg class="group-hover:rotate-[-30deg] transition-transform duration-700" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                           <path d="M10.4688 15.625L16.0938 10L10.4688 4.375M15.3125 10H3.90625" stroke="currentColor" stroke-width="1.875" stroke-miterlimit="10" stroke-linecap="square"/>
                         </svg>
                         </div>
@@ -360,21 +360,21 @@
                 </div>
 
                 <!-- ICON BOX 4 -->
-                <div class="bg-white p-6 rounded-3xl border-2 border-[#E5E5E5] group hover:bg-gradient-to-t hover:from-[#000000] hover:to-[#ACACAC] hover:text-white transition-all duration-300">
+                <div class="bg-white p-6 rounded-3xl border-2 border-[#E5E5E5] group hover:bg-gradient-to-t hover:from-[#000000] hover:to-[#ACACAC] hover:text-white transition-all duration-700">
                   <div class="min-h-[200px] lg:min-h-[220px] group space-y-6">
                     <div class="space-y-2 ">
-                      <img src="{{url('/frontend/icons/aroma.svg')}}" class="opacity-35 lg:w-[50px] group-hover:opacity-100 group-hover:filter group-hover:invert transition-opacity duration-300" />
+                      <img src="{{url('/frontend/icons/Specialties-Group-7.svg')}}" class="opacity-35 lg:w-[50px] group-hover:opacity-100 group-hover:filter group-hover:invert transition-opacity duration-700" />
                       <h4 class="text-2xl lg:text-[28px] group-hover:text-white transition-colors duration-300">
-                      Aroma Chemicals
+                      Specialties
                       </h4>
                     </div>
-                    <p class="font-second text-[16px] text-[#5C5C5C] group-hover:text-white transition-colors duration-300">
-                      High-quality aroma chemicals sourced globally for consistent performance in every formulation.
+                    <p class="font-second text-[16px] text-[#5C5C5C] group-hover:text-white transition-colors duration-700">
+                      A curated selection of specialty ingredients designed to meet unique formulation needs with precision and quality.
                     </p>
                     <div class="flex justify-end items-center">
-                      <a href="{{route('aboutus')}}" wire:navigate class="p-2 inline-flex font-light items-center bg-[#363636] group-hover:bg-white group-hover:text-[#363636] text-white rounded-full transition-colors duration-300">
+                      <a href="{{route('aboutus')}}" wire:navigate class="p-2 inline-flex font-light items-center bg-[#363636] group-hover:bg-white group-hover:text-[#363636] text-white rounded-full transition-colors duration-700">
                         <div class="flex flex-co justify-center items-center h-6 w-6 rounded-full" >
-                        <svg class="group-hover:rotate-[-30deg] transition-transform duration-300" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <svg class="group-hover:rotate-[-30deg] transition-transform duration-700" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                           <path d="M10.4688 15.625L16.0938 10L10.4688 4.375M15.3125 10H3.90625" stroke="currentColor" stroke-width="1.875" stroke-miterlimit="10" stroke-linecap="square"/>
                         </svg>
                         </div>
