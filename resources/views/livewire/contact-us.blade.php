@@ -83,13 +83,13 @@
 
     <div class="container  mx-auto w-[350px] bg-[#E7E8ED] p-8 lg:p-16 mb-20 rounded-[9px]">
 
-        <h3 class="text-[44px] text-[#202020] leading-14">Distribution Centers</h3>
+        <h3 class="text-[44px] text-[#202020] leading-[50px]">Distribution Centers</h3>
 
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-5">
 
             <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
 
-                <h4 class="text-[#202020] text-[30px] leading-14">
+                <h4 class="text-[#202020] text-[30px] leading-[40px]">
                     Shree Arihant Compound
                 </h4>
                 <p class="font-second text-[16px] text-[#202020] leading-7">
@@ -100,7 +100,7 @@
 
             <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
 
-                <h4 class="text-[#202020] text-[30px] leading-14">
+                <h4 class="text-[#202020] text-[30px] leading-[40px]">
                     K-square Logistics Park
                 </h4>
                 <p class="font-second text-[16px] text-[#202020] leading-7">
