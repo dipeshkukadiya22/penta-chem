@@ -368,7 +368,7 @@
             </div>
 
 
-            <div class="w-full lg:w-1/2 py-8 lg:py-0 px-12 space-y-10">
+            <div class="w-full lg:w-1/2 py-4 lg:py-0 px-6 space-y-10">
 
               <div class="space-y-3">
                 <h3 class="text-[#202020] text-2xl lg:text-[44px] leading-8 lg:leading-[44px]">Reach Out to Us for Support or Collaboration</h3>

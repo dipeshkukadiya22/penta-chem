@@ -77,7 +77,7 @@
     <div
         class="bg-[url('/public/frontend/about-bg.jpg')] lg:bg-blend-normal bg-blend-multiply  bg-black/40 lg:min-h-[60vh] min-h-[80vh] bg-cover bg-center flex flex-col justify-center my-10">
         <div class="container space-y-5 px-6 lg:px-0">
-            <h3 class="text-[34px] font-semibold text-white w-[300px] lg:w-[600px] leading-10">Our Commitment to Quality
+            <h3 class="text-[34px] text-white w-[300px] lg:w-[600px] leading-10">Our Commitment to Quality
             </h3>
             <p class="text-left text-white text-[18px] font-second leading-7 w-[300px] lg:w-[600px]">
                 Quality is at the core of everything we do. We are deeply committed to providing ingredients
@@ -154,7 +154,7 @@
         <div
             class="container blackgredient shadow-lg p-8 lg:p-10 rounded-xl flex flex-col lg:flex-row gap-5 items-center">
             <div class="lg:w-9/12 space-y-4">
-                <h1 class="text-white font-semibold text-[35px] leading-10">
+                <h1 class="text-white text-[35px] leading-10">
                     Sustainability & Responsibility
                 </h1>
                 <p class="font-second text-[#CCCCCC]">
@@ -304,7 +304,7 @@
                 </div>
 
                 <div>
-                    <p class="font-second text-[19px] text-black leading-10">
+                    <p class="font-second text-[19px] text-black leading-8">
                         We’re always happy to discuss how we can help you create the perfect fragrance or flavour using
                         the finest ingredients
 

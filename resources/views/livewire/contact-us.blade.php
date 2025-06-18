@@ -29,7 +29,7 @@
     <!-- Office Content -->
     <div class="container px-6 lg:px-0 pt-10 lg:pt-20 pb-10 lg:pb-20">
 
-        <div class="grid grid-col-1 lg:grid-cols-3 gap-10">
+        <div class="grid grid-col-1 lg:grid-cols-3 gap-6">
 
             <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
 
@@ -129,7 +129,7 @@
                     Let’s Work
                     <span class="font-semibold block">Together</span>
                 </h3>
-                <p class="font-second text-[16px] text-black leading-8">
+                <p class="font-second text-[16px] text-black leading-6">
                     Don't hesitate to reach out to us for technical questions, sample requests, inquiries or regulatory
                     information. Our team is ready to help and meet your requests.
                 </p>

@@ -7,7 +7,7 @@
         <!-- Gradient overlay -->
         <div class="absolute inset-0 bg-[linear-gradient(to_left,_#E4ECFF,_#F0F0F0)] opacity-50 pointer-events-none z-0"></div>
 
-        <div class="relative content container !w-full lg:!w-[1240px] px-6 lg:px-0">
+        <div class="relative content container !w-full py-10 lg:py-0 lg:!w-[1240px] px-6 lg:px-0">
             <div class="w-full lg:w-7/12 space-y-3">
                 <div class="title">
                     <h1 class="text-[#202020] text-[44px] leading-14 uppercase">
@@ -36,9 +36,9 @@
 
     <!--Main Content-->
 
-    <div class="lg:w-6/12 container my-10 lg:my-20  px-6 lg:px-0 mx-auto">
+    <div class="container my-10 lg:my-20  px-6 lg:px-0 mx-auto">
 
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-12">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-6">
             <div class="space-y-4 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
                 <h4 class="text-[33px] leading-14">
                     AAC Europe
@@ -111,7 +111,7 @@
                 </div>
 
                 <div>
-                    <p class="font-second text-[18px] text-black leading-10">
+                    <p class="font-second text-[18px] text-black leading-8">
                         We’re always happy to discuss how we can help you create the perfect fragrance or flavour using
                         the finest ingredients
 
