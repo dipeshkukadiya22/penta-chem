@@ -8,7 +8,7 @@
           <div class="w-full lg:w-1/2 space-y-3">
             <div class="uppercase">
               <h1 class="text-[#424242] text-3xl lg:text-[44px] leading-snug">
-                The Finest Ingredients
+                Elevating experiences
               </h1>
               <h1
                 class="headline letters scale text-[#424242] text-3xl lg:text-[44px] leading-snug"
@@ -111,7 +111,7 @@
               <img src="{{ url('frontend/Rectangle-1.jpg') }}" class="rounded-[28px]" />
           </div>
           <div class="w-full lg:w-2/3 lg:space-y-6 space-y-3">
-              <h3 class="text-[#202020] text-3xl lg:text-[44px] leading-10 lg:leading-[52px] uppercase">Crafting Excellence with Nature’s Finest Ingredients</h3>
+              <h3 class="text-[#202020] text-3xl lg:text-[44px] leading-10 lg:leading-[52px] uppercase">Sourcing Excellence with Nature’s Finest Ingredients</h3>
               <p class="text-[#424242] text-[16px] font-second leading-7">
                 At Penta Chem, we specialize in sourcing the finest aroma chemicals, essential oils, and natural extracts from the world’s leading producers. 
               </p>
@@ -147,7 +147,7 @@
               <div class="rounded-[6px] min-h-[200px] flex flex-col justify-between">
                 <div class="">
                   <h4 class="font-bold text-[44px] leading-10 italic mb-1">
-                    450 Tonnes+
+                    150 Tonnes+
                   </h4>
                   <h5 class="font-second text-2xl">Monthly Deliveries</h5>
                 </div>
@@ -157,68 +157,32 @@
                   </p>
                 </div>
                 <div class="mt-4">
-                  <a href="#" class="border border-[#202020] text-[#202020] rounded-full px-4 py-2 text-sm ">
-                  Learn More
+                  <a href="{{route('aboutus')}}" class="border border-[#202020] text-[#202020] rounded-full px-4 py-2 text-sm ">
+                  Learn more
                   </a>
                 </div>
               </div>
         
-              <div class="rounded-[6px] min-h-[200px] flex flex-col justify-between">
-                <div class="">
-                  <h4 class="font-bold text-[44px] italic leading-10">
-                    125+
-                  </h4>
-                  <h5 class="font-second text-2xl">Team Size</h5>
-                </div>
-                <div class="">
-                  <p class="font-second text-[16px] text-[#5C5C5C]">
-                    A dedicated and skilled team, focused on delivering excellence and innovation.
-                  </p>
-                </div>
-                <div class="mt-4">
-                  <a href="#" class="border border-[#202020] text-[#202020] rounded-full px-4 py-2 text-sm">
-                    Learn More
-                  </a>
-                </div>
-              </div>
 
               <!-- Vertical Line -->
               <div class="hidden lg:block absolute inset-y-0 left-1/2 w-[2px] bg-gradient-to-b from-transparent via-[#979797] to-transparent"></div>
         
-              <div class="rounded-[6px] min-h-[200px] flex flex-col justify-between">
-                <div class="">
-                  <h4 class="font-bold text-[44px] italic leading-10">
-                    1600+
-                  </h4>
-                  <h5 class="font-second text-2xl">Customers Served</h5>
-                </div>
-                <div class="">
-                  <p class="font-second text-[16px] text-[#5C5C5C]">
-                    A expanding network of loyal customers, trusted for our quality and reliability.
-                  </p>
-                </div>
-                <div class="mt-4">
-                  <a href="#" class="border border-[#202020] text-[#202020] rounded-full px-4 py-2 text-sm">
-                    Learn More
-                  </a>
-                </div>
-              </div>
         
               <div class="rounded-[6px] min-h-[200px] flex flex-col justify-between">
                 <div class="">
                   <h4 class="font-bold text-[44px] italic leading-10">
-                    125+
+                    500+
                   </h4>
-                  <h5 class="font-second text-2xl">Team Size</h5>
+                  <h5 class="font-second text-2xl">Product Reference</h5>
                 </div>
                 <div class="">
                   <p class="font-second text-[16px] text-[#5C5C5C]">
-                    A wide range of premium products designed to meet customer needs.
+                    Your go-to source for unmatched variety, quality and trusted product selections.
                   </p>
                 </div>
                 <div class="mt-4">
-                  <a href="#" class="border border-[#202020] text-[#202020] rounded-full px-4 py-2 text-sm">
-                    Learn More
+                  <a href="{{route('aboutus')}}" class="border border-[#202020] text-[#202020] rounded-full px-4 py-2 text-sm">
+                    Learn more
                   </a>
                 </div>
               </div>
@@ -226,11 +190,11 @@
             </div>
 
             <div class="w-full  lg:w-1/3">
-              <div class="bg-[url('/public/frontend/Frame-20.jpg')] min-h-[60vh] bg-cover bg-center flex flex-col justify-start p-8 rounded-[28px]">
+              <div class="bg-[url('/public/frontend/Frame-20.jpg')] min-h-[50vh] bg-cover bg-center flex flex-col justify-start p-8 rounded-[28px]">
                 <div class="flex flex-col justify-between">
                   <div class="">
                     <h4 class="font-bold italic text-[44px] leading-10">
-                      120,000+ SQFT <span class="text-[20px]"></span>
+                      80,000+ SQFT <span class="text-[20px]"></span>
                     </h4>
                     <h5 class="font-second text-lg font-bold">Facilities</h5>
                     <div class="button !mt-4">
