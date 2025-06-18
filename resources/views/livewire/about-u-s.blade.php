@@ -7,7 +7,7 @@
         <div class="absolute inset-0 bg-[linear-gradient(to_left,_#E4ECFF,_#F0F0F0)] opacity-50 pointer-events-none z-0"></div>
 
         <div class="relative content container">
-            <div class="lg:w-7/12 space-y-3">
+            <div class="lg:w-7/12 px-6 lg:px-0 py-10 space-y-3">
                 <div class="title">
                     <h1 class="text-[#202020] text-[44px] leading-14 uppercase">
                         About Us

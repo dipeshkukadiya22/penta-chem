@@ -42,7 +42,7 @@
                 <li><a href="{{ route('productpage') }}" wire:navigate class="block text-[#202020]">Products</a></li>
                
                 <li><a href="{{ route('aboutus') }}" wire:navigate class="block text-[#202020]">About Us</a></li>
-                <li><a href="{{ route('international') }}" wire:navigate class="block text-[#202020]">International</a></li>
+                <!-- <li><a href="{{ route('international') }}" wire:navigate class="block text-[#202020]">International</a></li> -->
                 <li><a href="{{ route('contactus') }}" wire:navigate class="block text-[#202020]">Contact</a></li>
             </ul>
         </div>

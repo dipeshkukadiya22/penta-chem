@@ -10,6 +10,7 @@
       type="text/css"
       href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"
     />
+    <link rel="icon" type="image/svg+xml" href="{{ url('frontend/favicon_icon.png') }}">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -43,9 +44,9 @@
                     <li class="">
                     <a href="{{route('aboutus')}}" wire:navigate> About Us </a>
                     </li>
-                    <li class="">
+                    <!-- <li class="">
                       <a href="{{route('international')}}" wire:navigate> International </a>
-                      </li>
+                      </li> -->
                     <li class="">
                     <a href="{{route('contactus')}}" wire:navigate> Contact </a>
                     </li>
