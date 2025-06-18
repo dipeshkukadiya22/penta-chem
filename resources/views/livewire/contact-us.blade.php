@@ -85,7 +85,7 @@
 
         <h3 class="text-[44px] text-[#202020] leading-14">Distribution Centers</h3>
 
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 mt-5">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-5">
 
             <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
 
@@ -121,11 +121,11 @@
 
     <div class="container px-6 lg:px-0 mb-20">
 
-        <div class="flex flex-col lg:flex-row justify-between gap-10 lg:gap-40 space-y-2">
+        <div class="flex flex-col lg:flex-row justify-between gap-10 lg:gap-20 space-y-2">
 
-            <div class="lg:w-4/12 space-y-3">
+            <div class="lg:w-2/5 space-y-3">
                 <h3
-                    class="text-[52px] lg:text-[72px] text-[#202020] font-light leading-[60px] lg:leading-[90px] space-y-8">
+                    class="text-[52px] lg:text-[72px] text-[#202020] font-light leading-[60px] lg:leading-[80px] space-y-8">
                     Let’s Work
                     <span class="font-semibold block">Together</span>
                 </h3>
@@ -136,7 +136,7 @@
             </div>
 
 
-            <div class="lg:w-8/12">
+            <div class="lg:w-3/5">
                 <form>
                     <div class="grid grid-cols-2 gap-4 mb-4">
                         <div>

@@ -7,11 +7,11 @@
         <div class="container flex flex-col lg:flex-row items-center">
           <div class="w-full lg:w-1/2 space-y-3">
             <div class="uppercase">
-              <h1 class="text-[#424242] text-3xl lg:text-[44px] leading-snug">
+              <h1 class="text-[#424242] text-2xl lg:text-[44px] leading-snug">
                 Elevating experiences
               </h1>
               <h1
-                class="headline letters scale text-[#424242] text-3xl lg:text-[44px] leading-snug"
+                class="headline letters scale text-[#424242] text-2xl lg:text-[44px] leading-snug"
               >
                   <span class="">
                     with<b class="!italic  !text-black"> premium aromatic</b>
@@ -23,7 +23,7 @@
                   <b>Cosmetic</b>
                 </span> -->
               </h1>
-              <h1 class="text-[#424242] text-3xl lg:text-[44px] leading-snug">ingredients</h1>
+              <h1 class="text-[#424242] text-2xl lg:text-[44px] leading-snug">ingredients</h1>
             </div>
             <div class="">
               <p class="text-[16px] font-second lg:w-[470px] w-auto text-[#5C5C5C]">

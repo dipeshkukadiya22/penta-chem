@@ -101,7 +101,7 @@
             <div class="grid grid-col-1 lg:grid-cols-2 gap-8 mt-12">
                 <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
                     <img src="{{ url('/frontend/icons/01.svg') }}" alt="" class="w-16 h-16" />
-                    <h4 class="font-bold text-[20px]">Comprehensive Product Range</h4>
+                    <h4 class="text-[20px] text-[#202020]">Comprehensive Product Range</h4>
                     <p class="font-second text-[16px] text-[#202020] leading-7">
                         Our extensive catalogue of ingredients covers every need within the fragrance and flavour
                         industries, from aroma chemicals, essential oils, natural extracts, bases, specialities,
@@ -111,7 +111,7 @@
 
                 <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
                     <img src="{{ url('/frontend/icons/02.svg') }}" alt="" class="w-16 h-16" />
-                    <h4 class="font-bold text-[20px] leading-10">Reliability</h4>
+                    <h4 class="text-[#202020] text-[20px] leading-10">Reliability</h4>
                     <p class="font-second text-[16px] text-[#202020] leading-7">
                         With decades of industry experience, we are known for delivering quality products on time, every
                         time—making us a reliable partner for businesses of all sizes.
@@ -120,7 +120,7 @@
 
                 <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
                     <img src="{{ url('/frontend/icons/03.svg') }}" alt="" class="w-16 h-16" />
-                    <h4 class="font-bold text-[20px] leading-10">Tailored Service</h4>
+                    <h4 class="text-[#202020] text-[20px] leading-10">Tailored Service</h4>
                     <p class="font-second text-[16px] text-[#202020] leading-7">
 
                         We understand that each customer’s needs are unique. Our team provides personalized solutions
@@ -133,7 +133,7 @@
 
                 <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
                     <img src="{{ url('/frontend/icons/04.svg') }}" alt="" class="w-16 h-16" />
-                    <h4 class="font-bold text-[20px] leading-10">Global Reach</h4>
+                    <h4 class="text-[#202020] text-[20px] leading-10">Global Reach</h4>
                     <p class="font-second text-[16px] text-[#202020] leading-7">
                         With a broad supply chain network and strategic partnerships across the world, we have the
                         ability to serve clients in all corners of the globe, offering competitive pricing and
@@ -297,7 +297,7 @@
 
                 <div>
                     <h3
-                        class="lg:w-[400px] lg:text-[72px] text-[52px] text-[#202020] font-light leading-[60px] lg:leading-[90px] space-y-8">
+                        class="lg:w-[400px] lg:text-[72px] text-[52px] text-[#202020] font-light leading-[60px] lg:leading-[80px] space-y-8">
                         Let’s Work
                         <span class="font-semibold block">Together</span>
                     </h3>
@@ -309,7 +309,7 @@
                         the finest ingredients
 
                     </p>
-                    <div class="button !mt-10">
+                    <div class="button !mt-6">
                         <a href="{{route('contactus')}}" wire:navigate class="pl-4 pr-2 py-2 inline-flex font-light items-center bg-[#363636] text-white rounded-full">
                             Contact Us
                             <div class="flex flex-co justify-center items-center ml-2 h-6 w-6 bg-white rounded-full" >

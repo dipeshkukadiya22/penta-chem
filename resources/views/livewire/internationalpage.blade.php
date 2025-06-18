@@ -104,7 +104,7 @@
 
                 <div>
                     <h3
-                        class="lg:w-[400px] text-[46px] lg:text-[72px] text-[#202020] font-light lg:leading-[90px] space-y-8">
+                        class="lg:w-[400px] text-[46px] lg:text-[72px] text-[#202020] font-light lg:leading-[80px] space-y-8">
                         Let’s Work
                         <span class="font-semibold block">Together</span>
                     </h3>
@@ -116,7 +116,7 @@
                         the finest ingredients
 
                     </p>
-                    <div class="button !mt-10">
+                    <div class="button !mt-6">
                         <a href="{{route('contactus')}}" wire:navigate class="pl-4 pr-2 py-2 inline-flex font-light items-center bg-[#363636] text-white rounded-full">
                             Contact Us
                             <div class="flex flex-co justify-center items-center ml-2 h-6 w-6 bg-white rounded-full" >
