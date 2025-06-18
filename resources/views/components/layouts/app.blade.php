@@ -128,7 +128,7 @@
                     <a href="#">+91 22 2419 8800 </a>
                   </p>
                   <p class="text-white text-opacity-50 font-extralight text-sm space-y-2">
-                    <a href="#">info@aacipl.com</a>
+                    <a href="#">info@pentachem.com</a>
                   </p>
                 </div>
                 
@@ -166,7 +166,7 @@
         <div class="container mt-4 lg:mt-20 flex flex-col lg:flex-row gap-20 justify-between !w-full lg:!w-[1240px] px-6 lg:px-0">
           <div class="w-full lg:w-6/12 mb-1">
             <p class="text-white text-opacity-50 text-xs">
-              © 2025, Associate Allied Chemicals. All Rights
+              © 2025, Penta Chem. All Rights
               Reserved.
             </p>
           </div>

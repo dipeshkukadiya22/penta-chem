@@ -41,7 +41,7 @@
                 </p>
                 <hr>
                 <p class="font-second text-[16px] text-[#202020] leading-7">Tel: +91 22 2419 8800</p>
-                <p class="font-second text-[16px] text-[#202020] leading-7">Email: info@aacipl.com </p>
+                <p class="font-second text-[16px] text-[#202020] leading-7">Email: info@pentachem.com </p>
 
             </div>
 
@@ -51,11 +51,11 @@
                     Bangalore Office
                 </h4>
                 <p class="font-second text-[16px] text-[#202020] leading-7">
-                    No.729/1, 60 th  Cross, 5 th  Block, Rajajinagar, Bangalore
+                    No.729/1, 60th  Cross, 5th  Block, Rajajinagar, Bangalore
                 </p>
                 <hr>
                 <p class="font-second text-[16px] text-[#202020] leading-7">Tel: +91 22 2419 8800</p>
-                <p class="font-second text-[16px] text-[#202020] leading-7">Email: info@aacipl.com </p>
+                <p class="font-second text-[16px] text-[#202020] leading-7">Email: info@pentachem.com </p>
 
             </div>
 
@@ -70,7 +70,7 @@
                 
                 <hr>
                 <p class="font-second text-[16px] text-[#202020] leading-7">Tel: +91 816 820 8880</p>
-                <p class="font-second text-[16px] text-[#202020] leading-7">Email: info@aacipl.com </p>
+                <p class="font-second text-[16px] text-[#202020] leading-7">Email: info@pentachem.com </p>
 
             </div>
 
