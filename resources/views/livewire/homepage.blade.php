@@ -50,11 +50,11 @@
 
       <!--Our Partners-->
 
-      <div class="gap-12 !w-full px-6 lg:px-0">
+      <!-- <div class="gap-12 !w-full px-6 lg:px-0">
         <div class="mt-10 lg:mt-20 bg-[#F9F9F9]">
-          <!-- <h1 class="italic text-[30px] text-center text-[#5C5C5C]">
+          <h1 class="italic text-[30px] text-center text-[#5C5C5C]">
             Our Partners
-          </h1> -->
+          </h1>
           <div class="logos py-10 [&_img]:h-8 [&_img]:w-auto [&_img]:mx-auto">
             <div class="">
               <img src="{{url('frontend/logo/l-1.svg')}}" />
@@ -94,7 +94,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <!--End Our Partners-->
 
      </div>
