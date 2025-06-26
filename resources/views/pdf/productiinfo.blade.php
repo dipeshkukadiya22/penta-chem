@@ -80,15 +80,15 @@
         <div class="table">
             <table style="width: 100%;">
             <tr>
-                <td><img src="https://teque7.in/logo/Logo.svg" alt="AACE Logo" style="width: 800px; height: auto"></td>
+                <td><img src="https://teque7.in/logo/penta-logo.png" alt="Penta Chem" style="width: 800px; height: auto"></td>
                 <td>
                     <p style="text-align: right; font-size: 12px; font-weight: bold;"> 
-                    ASSOCIATE ALLIED CHEMICALS INDIA PRIVATE LIMITED<br>
-                    <span style="font-size: 10px; font-weight: normal;">41 MANOJ INDUSTRIAL ESTATE, G D AMBEKAR ROAD,<br>
-                    MUMBAI, MAHARASHTRA, INDIA 400031<br>
+                    PENTA CHEM (M.E) FZE<br>
+                    <span style="font-size: 10px; font-weight: normal;">PENTA CHEM (ME) FZE South Zone, 2 Jebel Ali,<br>
+                    PO Box 18025 Dubai, UAE<br>
                     Tel. +912224198800 <br></span>
-                    info@aacipl.com<br>
-                    www.aacipl.com<br>
+                    info@pentachem.com<br>
+                    www.pentachem.com<br>
                 </p>
                 </td>
             </tr>
