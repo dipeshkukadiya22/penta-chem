@@ -161,7 +161,7 @@
 
             <div class="">
                 <div class="button pt-8 lg:pt-0">
-                    <a href="{{route('contactus')}}" class="flex font-light items-center bg-[#363636] text-white rounded-full pl-4 pr-3 py-2 ">
+                    <a href="{{route('contactus')}}" class="inline-flex font-light items-center bg-[#363636] text-white rounded-full pl-4 pr-3 py-2 ">
                         Get in touch
                         <div class="flex flex-co justify-center items-center h-6 w-6 bg-white rounded-full ml-1" >
                             <svg width="9" height="9" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">

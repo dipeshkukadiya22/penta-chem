@@ -212,15 +212,15 @@
                 class="product-list-tbl table-auto bg-white w-full text-[#202020] border-[#D1D1D1] rounded-[18px] overflow-hidden">
                 <thead class="bg-[#363636] text-white">
                     <tr>
-                        <th class="w-[600px] flex items-center">
+                        <th class="w-[450px] lg:w-[600px] flex items-center">
                             Product Name
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4 ml-2">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 9l-7.5 7.5L4.5 9" />
                             </svg>
                         </th>
                         <th>Type</th>
-                        <th class="hidden lg:table-cell">Manufacturer</th>
-                        <th class="hidden lg:table-cell">Inquire</th>
+                        <th class="lg:table-cell">Manufacturer</th>
+                        <th class="min-w-[150px] lg:min-w-auto lg:table-cell">Inquire</th>
                     </tr>
                 </thead>
                 <tbody class="border border-[#E5E5E5]">
@@ -229,7 +229,7 @@
                             <td class="rounded-tl">
                                 <a class="pl-link" href="{{ route('productinside', $product->slug) }}">
                                     <span
-                                        class="max-w-[150px] lg:max-w-none">{{ ucwords($product->product_name) }}</span>
+                                        class="max-w-[250px] lg:max-w-none">{{ ucwords($product->product_name) }}</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                         stroke-width="1.5" stroke="currentColor" class="size-6 eye-icon">
                                         <path stroke-linecap="round" stroke-linejoin="round"
@@ -240,8 +240,8 @@
                                 </a>
                             </td>
                             <td>{{ ucwords($product->producttype) }}</td>
-                            <td class="hidden lg:table-cell">{{ ucwords($product->manufacturer) }}</td>
-                            <td class="hidden lg:table-cell">
+                            <td class="lg:table-cell">{{ ucwords($product->manufacturer) }}</td>
+                            <td class="lg:table-cell">
                                 <a class="relative flex pb-0 font-normal transition-all duration-300 
                           before:block before:content-['']"
                                     href="{{ route('contactus') }}">
