@@ -14,16 +14,8 @@
                     </h1>
                 </div>
                 <div class="">
-                    <p class="text-[16px] font-second w-auto lg:w-[650px] text-[#424242] leading-7">
-                        At Associate Allied Chemicals, we are a leading global supplier of high-quality ingredients,
-                        serving the fragrance, flavor, food, and cosmetic industries. With over 45 years of expertise,
-                        we pride ourselves on building long-lasting partnerships and delivering materials that inspire
-                        creativity and enhance sensory experiences.
-                    </p>
-                    <p class="text-[16px] font-second w-auto lg:w-[650px] text-[#424242] leading-7 mt-5">
-                        Our commitment to excellence ensures that we consistently provide top-tier products that help
-                        our clients craft distinctive and unforgettable scents, tastes, and textures. Trust us to be
-                        your partner in innovation and quality.
+                    <p class="text-[16px] font-second w-auto lg:w-[600px] text-[#424242] leading-7">
+                        Penta Chem (Middle East) FZE, established in 2003, is a premier regional distributor of aroma molecules and specialty ingredients for the fragrance, flavor, personal care, and home care industries. Based in the UAE, we partner with leading global suppliers to supply high-quality, regulatory compliant raw materials across the GCC and MENA regions.
                     </p>
                 </div>
                 <!-- <div class="button !mt-10">
@@ -46,20 +38,13 @@
             <div class="lg:space-y-6 space-y-3">
                 <h3 class="text-[#202020] text-[34px] leading-14">Who We Are</h3>
                 <p class="text-[#202020] text-[16px] font-second leading-7">
-                    Founded 45 years ago, with a commitment to quality and dependability, Associate Allied Chemicals has
-                    evolved into a prominent supplier of fragrance and flavor ingredients. Our extensive portfolio
-                    includes a wide variety of materials, including aroma chemicals, essential oils, natural extracts,
-                    and specialty ingredients, all carefully selected to serve the diverse needs of our clients in
-                    industries such as fragrance, flavors, cosmetics, personal care, food & beverages, and home care.
+                    With over two and a half decades of experience, Penta Chem has consistently supported creativity and innovation in formulation.
                 </p>
                 <p class="text-[#202020] text-[16px] font-second leading-7">
-                    We recognize that creating exceptional products requires more than just premium ingredients – it
-                    takes expertise and guidance. That's why we partner closely with our clients, offering technical
-                    support and valuable insights to help them bring their creative visions to life.
+                    Our extensive portfolio includes aroma chemicals, natural extracts, essential oils, specialty bases and more.
                 </p>
                 <p class="text-[#202020] text-[16px] font-second leading-7">
-                    With a strong global footprint, we are able to serve clients across multiple regions, ensuring
-                    consistent delivery and support no matter where they are located with customized solutions.
+                    We’re more than a distributor—we’re a strategic ally that bridges global excellence to regional market needs.
                 </p>
             </div>
             <div class="">
@@ -80,16 +65,37 @@
             <h3 class="text-[34px] text-white w-[300px] lg:w-[600px] leading-10">Our Commitment to Quality
             </h3>
             <p class="text-left text-white text-[18px] font-second leading-7 w-[300px] lg:w-[600px]">
-                Quality is at the core of everything we do. We are deeply committed to providing ingredients
-                that meet the highest industry standards, ensuring consistency, purity, and performance in
-                every product we deliver. We follow rigorous quality control processes, from raw material
-                selection to final product delivery, to guarantee our customers receive only the best.
+                Quality is at the core of everything we do. We follow stringent quality control protocols—from selecting raw materials to delivering the finished product—to ensure purity, consistency, and performance. Our team stays current on IFRA, REACH, and regional regulations, guiding our partners and customers with precise compliance support.
             </p>
         </div>
 
     </div>
 
     <!--end commited to quality-->
+
+    <!-- Logistics, Infrastructure & Reach -->
+    <div class="container py-10 lg:py-14 px-6 lg:px-0">
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-14 justify-between items-center">
+            <div class="">
+                <img src="{{ url('frontend/transport-logistics-concept.jpg') }}" class="rounded-[10px]" />
+            </div>
+            <div class="lg:space-y-6 space-y-3">
+                <h3 class="text-[#202020] text-[34px] leading-10">Logistics, Infrastructure & Reach</h3>
+                <p class="text-[#202020] text-[16px] font-second leading-7">
+                    ⁠State-of-the art UAE warehouse and logistics hub enabling fast, compliant deliveries throughout the GCC.
+                </p>
+                <p class="text-[#202020] text-[16px] font-second leading-7">
+                    Efficient supply chain processes suited for small-batch samples up to full-container shipments.
+                </p>
+                <p class="text-[#202020] text-[16px] font-second leading-7">
+                    Agile response capabilities allow us to address urgent needs and ensure just-in-time delivery.
+                </p>
+            </div>
+            
+        </div>
+    </div>
+
 
     <div class="container py-7 px-6 lg:px-0">
 
@@ -102,45 +108,32 @@
                 <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
                     <img src="{{ url('/frontend/icons/01.svg') }}" alt="" class="w-16 h-16" />
                     <h4 class="text-[20px] text-[#202020]">Comprehensive Product Range</h4>
-                    <p class="font-second text-[16px] text-[#202020] leading-7">
-                        Our extensive catalogue of ingredients covers every need within the fragrance and flavour
-                        industries, from aroma chemicals, essential oils, natural extracts, bases, specialities,
-                        solvents and more. We are your one-stop-shop for all your ingredient needs.
+                    <p class="font-second text-[16px] text-[#202020]">
+                        Aroma molecules, naturals, essential oils, specialty ingredients—all from trusted global producers.
                     </p>
                 </div>
 
                 <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
                     <img src="{{ url('/frontend/icons/02.svg') }}" alt="" class="w-16 h-16" />
-                    <h4 class="text-[#202020] text-[20px] leading-10">Reliability</h4>
-                    <p class="font-second text-[16px] text-[#202020] leading-7">
-                        With decades of industry experience, we are known for delivering quality products on time, every
-                        time—making us a reliable partner for businesses of all sizes.
+                    <h4 class="text-[#202020] text-[20px] leading-10">Reliability & Flexibility</h4>
+                    <p class="font-second text-[16px] text-[#202020]">
+                        Decades of consistent delivery, with options for flexible quantities, packaging, and long-term contracts.
                     </p>
                 </div>
 
                 <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
                     <img src="{{ url('/frontend/icons/03.svg') }}" alt="" class="w-16 h-16" />
-                    <h4 class="text-[#202020] text-[20px] leading-10">Tailored Service</h4>
-                    <p class="font-second text-[16px] text-[#202020] leading-7">
-
-                        We understand that each customer’s needs are unique. Our team provides personalized solutions
-                        and expert advice to ensure that your formulations meet your exact specifications.
-                        We are able to cater to the small batch orders and entire container loads for a variety of
-                        products in any packing size that you need. Do also talk to us about long-term supply contracts
-                        to ensure a consistent supply at stead pricing.
+                    <h4 class="text-[#202020] text-[20px] leading-10">Technical Guidance</h4>
+                    <p class="font-second text-[16px] text-[#202020]">
+                        Dedicated team offering formulation insights, regulatory assistance, and market intelligence.
                     </p>
                 </div>
 
                 <div class="space-y-5 bg-white p-7 shadow-lg rounded-[10px] border border-[#DCDCE0]">
                     <img src="{{ url('/frontend/icons/04.svg') }}" alt="" class="w-16 h-16" />
-                    <h4 class="text-[#202020] text-[20px] leading-10">Global Reach</h4>
-                    <p class="font-second text-[16px] text-[#202020] leading-7">
-                        With a broad supply chain network and strategic partnerships across the world, we have the
-                        ability to serve clients in all corners of the globe, offering competitive pricing and
-                        dependable logistics.
-                        Our products are available at our warehouses around the world to ensure just-in-time delivery
-                        for any urgent needs.
-
+                    <h4 class="text-[#202020] text-[20px] leading-10">Strategic Global Partnerships</h4>
+                    <p class="font-second text-[16px] text-[#202020]">
+                        Authorized distributor for leading global F&F manufacturers—bringing cutting-edge molecules to regional formulators.
                     </p>
                 </div>
 
@@ -158,14 +151,7 @@
                     Sustainability & Responsibility
                 </h1>
                 <p class="font-second text-[#CCCCCC]">
-                    Sustainability is an essential pillar of our business. Associate Allied Chemicals has been awarded
-                    the EcoVadis Silver Medal for our sustainability efforts, placing us in the top 15% of companies
-                    globally in our industry! This recognition reflects our unwavering commitment to integrating
-                    sustainable practices into every facet of our business.
-                </p>
-                <p class="font-second text-[#CCCCCC]">
-                    We are proud to emerge as a leader in sustainable chemical distribution in India, setting benchmarks
-                    for ethical operations, environmental responsibility, and sustainable procurement.
+                    Penta Chem is committed to responsible sourcing and sustainability. We work with supply partners who meet ethical and environmental standards, and we’re continuously enhancing transparency and traceability across our supply chain.
                 </p>
             </div>
             <div class="lg:w-3/12">
