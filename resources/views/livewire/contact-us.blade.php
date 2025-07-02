@@ -125,7 +125,7 @@
 
             <div class="w-full lg:w-3/5 bg-[#f9f9f9] p-4 lg:p-8 rounded-lg">
                 <form>
-                    <div class="grid lg:rid-cols-1 g:grid-cols-2 gap-4 mb-4">
+                    <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 mb-4">
                         <div>
                             <label for="first-name" class="block text-gray-700 text-sm mb-2">First
                                 Name</label>
