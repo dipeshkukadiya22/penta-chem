@@ -33,7 +33,6 @@
 
     <!-- Main Content -->
     <div class="container py-10 lg:py-14 px-6 lg:px-0">
-
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-14 justify-between items-center">
             <div class="lg:space-y-6 space-y-3">
                 <h3 class="text-[#202020] text-[34px] leading-14">Who We Are</h3>
@@ -48,7 +47,13 @@
                 </p>
             </div>
             <div class="">
-                <img src="{{ url('frontend/about-2.jpg') }}" class="rounded-[10px]" />
+                <div class="grid grid-cols-1 gap-4">
+                    <img src="{{ url('frontend/about-img-1.jpeg') }}" class="rounded-[10px] h-[300px] object-top object-cover w-full" />
+                    <div class="grid grid-cols-2 gap-4">
+                        <img src="{{ url('frontend/about-img-2.jpeg') }}" class="rounded-[10px] w-full h-40 object-cover" />
+                        <img src="{{ url('frontend/about-img-3.jpeg') }}" class="rounded-[10px] w-full h-40 object-bottom object-cover" />
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -145,8 +150,8 @@
 
     <div class="my-10 px-5 lg:px-0">
         <div
-            class="container blackgredient shadow-lg p-8 lg:p-10 rounded-xl flex flex-col lg:flex-row gap-5 items-center">
-            <div class="lg:w-9/12 space-y-4">
+            class="container blackgredient shadow-lg p-6 lg:p-10 rounded-xl flex flex-col lg:flex-row gap-5 items-center">
+            <div class="lg:w-3/5 space-y-4">
                 <h1 class="text-white text-[35px] leading-10">
                     Sustainability & Responsibility
                 </h1>
@@ -154,8 +159,8 @@
                     Penta Chem is committed to responsible sourcing and sustainability. We work with supply partners who meet ethical and environmental standards, and we’re continuously enhancing transparency and traceability across our supply chain.
                 </p>
             </div>
-            <div class="lg:w-3/12">
-                <img src="{{ url('frontend/Sustainability.png') }}" />
+            <div class="lg:w-2/5">
+                <img src="{{ url('frontend/amazing-shot-big-farmland-fully-covered-with-tulips.jpg') }}" class="w-full lg:h-50 object-cover rounded-[10px]" />
             </div>
         </div>
     </div>
@@ -224,12 +229,12 @@
                         <div class="">
                             <img src="{{ url('frontend/logo/l-7.svg') }}" />
                         </div>
-                        <div class="">
+                        <!-- <div class="">
                             <img src="{{ url('frontend/logo/l-8.svg') }}" />
-                        </div>
+                        </div> 
                         <div class="">
                             <img src="{{ url('frontend/logo/l-9.svg') }}" />
-                        </div>
+                        </div>-->
                         <div class="">
                             <img src="{{ url('frontend/logo/l-10.svg') }}" />
                         </div>
