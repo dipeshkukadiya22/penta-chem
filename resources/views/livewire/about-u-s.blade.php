@@ -48,10 +48,10 @@
             </div>
             <div class="">
                 <div class="grid grid-cols-1 gap-4">
-                    <img src="{{ url('frontend/about-img-1.jpeg') }}" class="rounded-[10px] h-[300px] object-top object-cover w-full" />
-                    <div class="grid grid-cols-2 gap-4">
-                        <img src="{{ url('frontend/about-img-2.jpeg') }}" class="rounded-[10px] w-full h-40 object-cover" />
-                        <img src="{{ url('frontend/about-img-3.jpeg') }}" class="rounded-[10px] w-full h-40 object-bottom object-cover" />
+                    <!-- <img src="{{ url('frontend/about-img-1.jpeg') }}" class="rounded-[10px] h-[300px] object-top object-cover w-full" /> -->
+                    <div class="grid grid-rows-2 gap-4">
+                        <img src="{{ url('frontend/about-img-3.jpeg') }}" class="rounded-[10px] w-full h-[340px] object-bottom object-cover" />
+                        <img src="{{ url('frontend/about-img-2.jpeg') }}" class="rounded-[10px] w-full h-[240px] object-cover" />
                     </div>
                 </div>
             </div>
@@ -160,7 +160,7 @@
                 </p>
             </div>
             <div class="lg:w-2/5">
-                <img src="{{ url('frontend/amazing-shot-big-farmland-fully-covered-with-tulips.jpg') }}" class="w-full lg:h-50 object-cover rounded-[10px]" />
+                <img src="{{ url('frontend/green-tea-garden-hill-cultivation.jpg') }}" class="w-full lg:h-50 object-cover rounded-[10px]" />
             </div>
         </div>
     </div>

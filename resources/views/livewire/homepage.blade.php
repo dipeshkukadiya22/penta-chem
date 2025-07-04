@@ -27,7 +27,7 @@
             </div>
             <div class="">
               <p class="text-[16px] font-second lg:w-[470px] w-auto text-[#5C5C5C]">
-                Made with the finest aroma chemicals, essential oils, and natural extracts, our products ensure purity and consistency from trusted global sources.
+                We supply aroma chemicals, essential oils, and natural extracts—sourced directly from globally trusted manufacturers to ensure consistency and traceability.
               </p>
             </div>
             <!-- <div class="button !mt-10">
