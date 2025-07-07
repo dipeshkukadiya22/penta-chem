@@ -17,6 +17,9 @@
                     <p class="text-[16px] font-second w-auto lg:w-[600px] text-[#424242] leading-7">
                         Penta Chem (Middle East) FZE, established in 2003, is a premier regional distributor of aroma molecules and specialty ingredients for the fragrance, flavor, personal care, and home care industries. Based in the UAE, we partner with leading global suppliers to supply high-quality, regulatory compliant raw materials across the GCC and MENA regions.
                     </p>
+                    <p class="text-[16px] font-second w-auto lg:w-[600px] text-[#424242] leading-7">
+                        Elevate your formulations with aroma molecules, essential oils, and natural extracts—sourced through a trusted supply network and selected for olfactory fidelity and full traceability.
+                    </p>
                 </div>
                 <!-- <div class="button !mt-10">
             <a
